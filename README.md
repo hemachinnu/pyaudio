@@ -1,0 +1,2 @@
+# pyaudio
+to recognise voice
